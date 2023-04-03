@@ -1,10 +1,5 @@
 # webteam
 
-[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
-[![Travis](https://img.shields.io/travis/gvsu-web-team/webteam.svg?style=flat-square)]()
-[![Total Downloads](https://img.shields.io/packagist/dt/gvsu-web-team/webteam.svg?style=flat-square)](https://packagist.org/packages/gvsu-web-team/webteam)
-
-
 ## Install
 
 ```bash
